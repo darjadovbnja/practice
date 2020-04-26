@@ -11,9 +11,9 @@ public class Puppy {
         return puppyAge;
     }
     public static void main (String[] args) {
-        Puppy puppy_2 = new Puppy();
-        puppy_2.setAge(2);
-        puppy_2.getAge();
-        System.out.println("My puppy age is " + puppy_2.puppyAge);
+        Puppy puppy_3 = new Puppy();
+        puppy_3.setAge(2);
+        puppy_3.getAge();
+        System.out.println("My puppy age is " + puppy_3.puppyAge);
     }
 }
